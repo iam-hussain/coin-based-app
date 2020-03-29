@@ -1,4 +1,5 @@
 export const theme = {
+  colors: {
     primaryLight: '#f1f5ff',
     primaryMain: '#4548ed',
     primaryDark: '#221996',
@@ -31,4 +32,5 @@ export const theme = {
     backgroundDefault: '#fff',
     backgroundPaper: '#f1f5ff',
     divider: '#E5E5E5',
+  }
 };

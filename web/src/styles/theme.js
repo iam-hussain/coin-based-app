@@ -1,11 +1,8 @@
 const theme = {
-    fontFamily: {
-        sansSerif: '-apple-system, "Helvetica Neue", Arial, sans-serif',
-        mono: 'Menlo, Monaco, monospace'
-    },
+    fontFamily: ' -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";',
     colors: {
         primary: '#4548ed',
-        secondary: '#ffeb3b',
+        secondary: '#f1f5ff',
         tertiary: '#221996',
 
         primaryDark: '#2e30e5',
